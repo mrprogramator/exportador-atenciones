@@ -1,0 +1,14 @@
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\obj\Debug\ExportadorAtenciones.csprojResolveAssemblyReference.cache
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\ExportadorAtenciones.dll.config
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\ExportadorAtenciones.dll
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\ExportadorAtenciones.pdb
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\EntityFramework.dll
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\Npgsql.dll
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\EntityFramework.xml
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\bin\Debug\Npgsql.xml
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\obj\Debug\ExportadorAtenciones.dll
+C:\Users\luigi\documents\visual studio 2012\Projects\ExportadorAtenciones\ExportadorAtenciones\obj\Debug\ExportadorAtenciones.pdb
